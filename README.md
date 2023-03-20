@@ -16,6 +16,14 @@
 💰：有使用限制或许需要付费（全程没有任何广告，也不会从中获利）
 
 
+## 自己找的其他的网站
+B站UP主西园公子冲冲冲：https://study.zwjjiaozhu.top/posts/chatgpt-mirror-sites.html
+                     https://study.zwjjiaozhu.top/posts/gpt4-sites.html
+           
+## 其他两个网站
+https://chatgpt365.chat/#/
+https://chat.forchange.cn/  (无需翻墙)
+
 
 ## ⭐ 替代ChatGPT网站
 
