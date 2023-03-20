@@ -17,9 +17,11 @@
 
 
 ## 自己找的其他的网站
-B站UP主西园公子冲冲冲：https://study.zwjjiaozhu.top/posts/chatgpt-mirror-sites.html
+B站UP主西园公子冲冲冲
 
-                     https://study.zwjjiaozhu.top/posts/gpt4-sites.html
+https://study.zwjjiaozhu.top/posts/chatgpt-mirror-sites.html
+
+https://study.zwjjiaozhu.top/posts/gpt4-sites.html
            
 ## 其他两个网站
 https://chatgpt365.chat/#/
