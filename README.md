@@ -30,6 +30,8 @@ https://chatgpt365.chat/#/
 
 https://chat.forchange.cn/  (无需翻墙)
 
+https://gpt.candobear.com/  (GPT学习宝典)
+
 
 ## ⭐ 替代ChatGPT网站
 
