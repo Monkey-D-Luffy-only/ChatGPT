@@ -24,6 +24,9 @@ B站UP主西园公子冲冲冲
 https://study.zwjjiaozhu.top/posts/chatgpt-mirror-sites.html
 
 https://study.zwjjiaozhu.top/posts/gpt4-sites.html
+
+B站UP主话痨没话聊
+http://ai.usesless.com/
            
 ## 其他两个网站
 https://chatgpt365.chat/#/
