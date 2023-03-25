@@ -18,11 +18,15 @@
 ## 学术使用
 https://github.com/binary-husky/chatgpt_academic
 
+https://xiezuocat.com/chat
+
 ## 插件
 ChatHub
 
 ## 微信小程序
 Talk With AI
+
+对话写作猫
 
 ## 自己找的其他的网站
 B站UP主西园公子冲冲冲
@@ -32,6 +36,7 @@ https://study.zwjjiaozhu.top/posts/chatgpt-mirror-sites.html
 https://study.zwjjiaozhu.top/posts/gpt4-sites.html
 
 B站UP主话痨没话聊
+
 http://ai.usesless.com/
            
 ## 其他两个网站
