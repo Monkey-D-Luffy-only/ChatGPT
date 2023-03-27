@@ -20,6 +20,11 @@ https://github.com/binary-husky/chatgpt_academic
 
 https://xiezuocat.com/chat
 
+# 辅助网站
+https://www.chatpdf.com/ （pdf分析）
+
+https://www.chatdoc.com/ （pdf分析）
+
 ## 插件
 ChatHub
 
