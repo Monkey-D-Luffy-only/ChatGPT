@@ -47,6 +47,8 @@ http://ai.usesless.com/
 ## 其他几个网站
 https://chatgpt365.chat/#/
 
+https://chat8.io/#/home
+
 https://chat.forchange.cn/  (无需翻墙)
 
 https://gpt.candobear.com/  (GPT学习宝典)
