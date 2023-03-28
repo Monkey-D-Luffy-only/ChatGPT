@@ -26,7 +26,9 @@ https://www.chatpdf.com/ （pdf分析）
 https://www.chatdoc.com/ （pdf分析）
 
 ## 插件
-ChatHub
+ChatHub（chrome插件）
+
+https://github.com/filippofinke/WordGPT（Word辅助插件）
 
 ## 微信小程序
 Talk With AI
