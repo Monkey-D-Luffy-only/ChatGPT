@@ -23,7 +23,13 @@ https://xiezuocat.com/chat
 # 辅助网站
 https://www.chatpdf.com/ （pdf分析）
 
-https://www.chatdoc.com/ （pdf分析）
+https://chatexcel.com/（excel分析）
+
+https://www.chatdoc.com/ （pdf/word分析）
+
+https://chat2doc.cn（pdf/word分析）
+
+https://www.pandagpt.io（pdf分析）
 
 ## 插件
 ChatHub（chrome插件）
