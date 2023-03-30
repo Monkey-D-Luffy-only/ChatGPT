@@ -20,6 +20,8 @@ https://github.com/binary-husky/chatgpt_academic
 
 https://xiezuocat.com/chat
 
+https://app.fir.ai/
+
 # 辅助网站
 https://www.chatpdf.com/ （pdf分析）
 
