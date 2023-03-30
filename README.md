@@ -34,7 +34,7 @@ https://www.pandagpt.io （pdf分析）
 ## 插件
 ChatHub（chrome插件）
 
-https://github.com/filippofinke/WordGPT（Word辅助插件）
+https://github.com/filippofinke/WordGPT （Word辅助插件）
 
 ## 微信小程序
 Talk With AI
