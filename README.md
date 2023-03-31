@@ -43,7 +43,7 @@ Talk With AI
 
 对话写作猫
 
-## 自己找的其他的网站
+## 来自B站UP主
 B站UP主西园公子冲冲冲
 
 https://study.zwjjiaozhu.top/posts/chatgpt-mirror-sites.html
@@ -58,6 +58,18 @@ http://ai.usesless.com/
 https://chatgpt365.chat/#/
 
 https://chat8.io/#/home
+
+https://ai.bo-e.com/ (无需翻墙)
+
+http://openmao.com/#/index  (无需翻墙)
+ 
+http://ai.usesless.com/chat/  (无需翻墙)
+
+https://chat5.xeasy.me/ 或者 https://chat7.xeasy.me/
+
+https://chat1.binjie.site:7777/#/chat/   (无需翻墙)
+
+https://chat2.yqcloud.top/#/chat/  (无需翻墙)
 
 https://chat.forchange.cn/  (无需翻墙)
 
