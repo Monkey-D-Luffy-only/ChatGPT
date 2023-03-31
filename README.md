@@ -18,6 +18,8 @@
 ## 学术使用
 https://github.com/binary-husky/chatgpt_academic
 
+https://github.com/kaixindelele/ChatPaper
+
 https://xiezuocat.com/chat
 
 https://app.fir.ai/
