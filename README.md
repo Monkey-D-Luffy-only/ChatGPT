@@ -28,6 +28,8 @@ https://xiezuocat.com/chat
 
 https://app.fir.ai/
 
+https://www.leiniao365.com/   （AI创作Word、Excel、PPT）
+
 ## 辅助网站
 https://www.chatpdf.com/ （pdf分析）
 
