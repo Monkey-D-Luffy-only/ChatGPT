@@ -68,7 +68,7 @@ B站UP主话痨没话聊
 
 http://ai.usesless.com/
            
-## 其他几个网站
+## 其他一些国内网站
 https://chatgpt365.chat/#/  (无需翻墙)
 
 https://chat8.io/#/home  (无需翻墙)
@@ -81,11 +81,14 @@ http://ai.usesless.com/chat/  (无需翻墙)
 
 https://chat5.xeasy.me/ 或者 https://chat7.xeasy.me/  (无需翻墙)
 
-https://chat1.binjie.site:7777/#/chat/   (无需翻墙)
+https://chat1.binjie.site:7777/#/chat/ 或者 https://chat.binjie.site:7777/  (无需翻墙)
+  
 
 https://chat2.yqcloud.top/#/chat/  (无需翻墙)
 
 https://chat.forchange.cn/  (无需翻墙)
+
+https://geekch.art/   (无需翻墙)
 
 https://gpt.candobear.com/  (GPT学习宝典) (无需翻墙)
 
