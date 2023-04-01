@@ -15,6 +15,10 @@
 
 💰：有使用限制或许需要付费（全程没有任何广告，也不会从中获利）
 
+## chatgpt prompt
+
+https://gpt.candobear.com/
+
 ## 学术使用
 https://github.com/binary-husky/chatgpt_academic
 
@@ -24,7 +28,7 @@ https://xiezuocat.com/chat
 
 https://app.fir.ai/
 
-# 辅助网站
+## 辅助网站
 https://www.chatpdf.com/ （pdf分析）
 
 https://chatexcel.com/ （excel分析）
