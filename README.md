@@ -19,6 +19,8 @@
 
 https://gpt.candobear.com/
 
+https://github.com/K-Render/best-chinese-prompt
+
 ## 学术使用
 https://github.com/binary-husky/chatgpt_academic
 
