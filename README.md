@@ -19,7 +19,7 @@
 
 https://github.com/lencx/ChatGPT
 
-## **chatgpt prompt**
+## __chatgpt prompt__
 
 https://openprompt.co/
 
