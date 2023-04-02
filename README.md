@@ -69,7 +69,6 @@ B站UP主话痨没话聊
 http://ai.usesless.com/
            
 ## 其他一些国内网站
-
 https://chatgpt365.chat/#/ 
 
 https://chat.javaex.cn/
@@ -77,6 +76,8 @@ https://chat.javaex.cn/
 https://chat8.io/#/home 
 
 https://ai.bo-e.com/ 
+
+https://ai-bot.cn/  （AI工具集导航）
 
 http://openmao.com/#/index  
  
