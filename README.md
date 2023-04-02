@@ -21,6 +21,8 @@ https://github.com/lencx/ChatGPT
 
 ## chatgpt prompt
 
+https://ai.newzone.top/
+
 http://ai.usesless.com/  
 
 https://gpt.candobear.com/
