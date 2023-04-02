@@ -21,6 +21,8 @@ https://github.com/lencx/ChatGPT
 
 ## chatgpt prompt
 
+http://ai.usesless.com/  
+
 https://gpt.candobear.com/
 
 https://github.com/K-Render/best-chinese-prompt
@@ -66,7 +68,7 @@ https://study.zwjjiaozhu.top/posts/gpt4-sites.html
 
 B站UP主话痨没话聊
 
-http://ai.usesless.com/
+http://ai.usesless.com/  （prompt与chatgpt）
            
 ## 其他一些国内网站
 https://chatgpt365.chat/#/ 
