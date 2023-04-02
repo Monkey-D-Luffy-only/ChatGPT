@@ -19,7 +19,9 @@
 
 https://github.com/lencx/ChatGPT
 
-## chatgpt prompt
+## **chatgpt prompt**
+
+https://openprompt.co/
 
 https://ai.newzone.top/
 
