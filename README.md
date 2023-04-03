@@ -87,6 +87,8 @@ https://ai.bo-e.com/
 
 https://ai-bot.cn/  （AI工具集导航）
 
+https://openaibot.net/#/
+
 https://ai-toolbox.codefuture.top/
 
 http://openmao.com/#/index  
