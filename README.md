@@ -21,6 +21,10 @@ https://github.com/lencx/ChatGPT
 
 ## __chatgpt prompt__
 
+https://greengpt.app/chat
+
+https://github.com/PlexPt/awesome-chatgpt-prompts-zh
+
 https://openprompt.co/
 
 https://ai.newzone.top/
