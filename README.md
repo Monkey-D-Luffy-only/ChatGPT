@@ -81,6 +81,8 @@ B站UP主话痨没话聊
 http://ai.usesless.com/  （prompt与chatgpt）
            
 ## 其他一些国内网站
+https://1chat.chat/#/chat/1002
+
 https://chatgpt365.chat/#/ 
 
 https://chat.javaex.cn/
