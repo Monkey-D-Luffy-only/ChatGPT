@@ -59,6 +59,8 @@ https://chat2doc.cn  （pdf/word分析）
 
 https://www.pandagpt.io （pdf分析）
 
+https://chatpaper.org/    （pdf分析）
+
 ## 插件
 ChatHub（chrome插件）
 
