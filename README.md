@@ -47,6 +47,8 @@ https://app.fir.ai/
 https://www.leiniao365.com/   （AI创作Word、Excel、PPT）
 
 ## 辅助网站
+https://www.chatpdfx.com/app/gulu/chat.htm   （pdf分析，中文文献可用）
+
 https://app.humata.ai/  （pdf分析，中文文献可用）
 
 https://www.chatpdf.com/ （pdf分析）
