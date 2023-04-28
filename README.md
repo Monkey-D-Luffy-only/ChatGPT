@@ -15,6 +15,12 @@
 
 💰：有使用限制或许需要付费（全程没有任何广告，也不会从中获利）
 
+## GPT-4
+
+https://play.vercel.ai/
+
+https://chat.forefront.ai/
+
 ## chatgpt桌面版
 
 https://github.com/lencx/ChatGPT
