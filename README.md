@@ -17,6 +17,10 @@
 
 ## GPT-4
 
+https://chat.chatbot.sex/chat/
+
+https://app.writesonic.com/  （交流与写作助手）
+
 https://play.vercel.ai/
 
 https://chat.forefront.ai/
@@ -42,6 +46,9 @@ https://gpt.candobear.com/
 https://github.com/K-Render/best-chinese-prompt
 
 ## 学术使用
+
+https://app.writesonic.com/  （交流与写作助手）
+
 https://github.com/binary-husky/chatgpt_academic
 
 https://github.com/kaixindelele/ChatPaper
