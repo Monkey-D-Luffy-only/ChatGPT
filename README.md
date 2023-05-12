@@ -31,6 +31,16 @@ https://github.com/lencx/ChatGPT
 
 ## __chatgpt prompt__
 
+https://snackprompt.com/
+
+https://flowgpt.com/
+
+https://prompthero.com/
+
+https://publicprompts.art/
+
+https://learningprompt.wiki/
+
 https://greengpt.app/chat
 
 https://github.com/PlexPt/awesome-chatgpt-prompts-zh
