@@ -15,6 +15,10 @@
 
 💰：有使用限制或许需要付费（全程没有任何广告，也不会从中获利）
 
+## 多功能网站
+
+https://www.aitest.me/
+
 ## GPT-4
 
 https://chat.chatbot.sex/chat/
