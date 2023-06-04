@@ -24,6 +24,8 @@ https://aigcmagic.com/
 
 ## GPT-4
 
+https://openai.fo/  邀请码：BEPEUM
+
 https://chat.chatbot.sex/chat/
 
 https://app.writesonic.com/  （交流与写作助手）
