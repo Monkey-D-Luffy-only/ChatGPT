@@ -26,6 +26,8 @@ https://aigcmagic.com/
 
 https://openai.fo/  邀请码：BEPEUM
 
+https://promptszone.com/?rc=0M3Tk1iRSy
+
 https://chat.chatbot.sex/chat/
 
 https://app.writesonic.com/  （交流与写作助手）
