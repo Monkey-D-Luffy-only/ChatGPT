@@ -82,6 +82,8 @@ https://www.leiniao365.com/   （AI创作Word、Excel、PPT）
 
 ## 辅助网站
 
+http://chatwithpaper.org/  （pdf分析，中文文献可用）  学术版：https://academic.chatwithpaper.org/
+
 https://typeset.io/      （pdf分析，中文文献可用）
 
 https://www.chatpdfx.com/app/gulu/chat.htm   （pdf分析，中文文献可用）
